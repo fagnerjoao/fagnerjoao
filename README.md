@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning Rest-Assured
+- 🌱 I’m currently learning Jmeter
 - 😄 Pronouns: He/Him/Ele/Dele
 
 <div align="center">
