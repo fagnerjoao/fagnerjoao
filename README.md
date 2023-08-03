@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning Jmeter
+- 🌱 I’m currently learning Cypress
 - 😄 Pronouns: He/Him/Ele/Dele
 
 <div align="center">
